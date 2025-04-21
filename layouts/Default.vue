@@ -6,5 +6,5 @@
 </template>
 
 <script setup>
-import NoticeBar from 'components/NoticeBar.vue'; // 导入组件
+import NoticeBar from '../components/NoticeBar.vue'; // 导入组件
 </script>
