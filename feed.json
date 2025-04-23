@@ -1,0 +1,62 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "-JiAn's Blog | 吉安小站-",
+    "home_page_url": "https://JianStack.github.io/",
+    "feed_url": "https://JianStack.github.io/feed.json",
+    "description": "JiAn-欢迎来到我的虚拟小世界",
+    "icon": "https://JianStack.github.io/avatar.jpg",
+    "author": {
+        "name": "吉安",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<p><strong>一句话总结</strong>：双人合作 + 多玩法融合的脑洞冒险，适合和朋友边骂边笑通关！</p>\n<h2>一、印象最深的关卡</h2>\n<ol>\n<li><strong>中世纪巨魔追逐战</strong>\n<ul>\n<li>操作：疯狂跳跃躲障碍，扔水果引开巨魔</li>\n<li></li>\n</ul>\n</li>\n</ol>\n<br/><p>访问 <a href=\"https://JianStack.github.io/posts/games\" target=\"_blank\">https://JianStack.github.io/posts/games</a> 阅读全文。</p>",
+            "url": "https://JianStack.github.io/posts/games",
+            "title": "《双影奇镜》通关!",
+            "date_modified": "2025-04-23T00:00:00.000Z",
+            "date_published": "2025-04-23T00:00:00.000Z",
+            "author": {
+                "name": "吉安",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>提升博客温度的第一步，从「看见」访客开始</h2>\n<p>“当虚拟空间的连接有了地理坐标，数字背后的个体便有了更真实的轮廓。”—— 这是我开发动态公告栏的初衷。通过技术手段将抽象的 IP 地址转化为具象的城</p>\n<br/><p>访问 <a href=\"https://JianStack.github.io/posts/teach\" target=\"_blank\">https://JianStack.github.io/posts/teach</a> 阅读全文。</p>",
+            "url": "https://JianStack.github.io/posts/teach",
+            "title": "技术探索",
+            "date_modified": "2025-04-21T00:00:00.000Z",
+            "date_published": "2025-04-21T00:00:00.000Z",
+            "author": {
+                "name": "吉安",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<!-- 添加音频播放器 -->\n<p><audio controls src=\"https://JianStack.github.io/ice_age.mp3\"></audio></p>\n<blockquote>\n<p>因原曲为VIP限制完整播放，已上传本地版本</p>\n</blockquote>\n<hr>\n<p>“究竟什么样的人，</p>\n<br/><p>访问 <a href=\"https://JianStack.github.io/posts/diary\" target=\"_blank\">https://JianStack.github.io/posts/diary</a> 阅读全文。</p>",
+            "url": "https://JianStack.github.io/posts/diary",
+            "title": "冰河时代",
+            "date_modified": "2025-04-20T00:00:00.000Z",
+            "date_published": "2025-04-20T00:00:00.000Z",
+            "author": {
+                "name": "吉安",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"https://JianStack.github.io/posts/hello-valaxy\" target=\"_blank\">https://JianStack.github.io/posts/hello-valaxy</a> 阅读全文。</p>",
+            "url": "https://JianStack.github.io/posts/hello-valaxy",
+            "title": "Hello, Valaxy!",
+            "date_modified": "2022-04-01T00:00:00.000Z",
+            "date_published": "2022-04-01T00:00:00.000Z",
+            "author": {
+                "name": "吉安",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
