@@ -35,6 +35,7 @@ declare module 'vue-router/auto-routes' {
     '/posts/diary': RouteRecordInfo<'/posts/diary', '/posts/diary', Record<never, never>, Record<never, never>>,
     '/posts/games': RouteRecordInfo<'/posts/games', '/posts/games', Record<never, never>, Record<never, never>>,
     '/posts/hello-valaxy': RouteRecordInfo<'/posts/hello-valaxy', '/posts/hello-valaxy', Record<never, never>, Record<never, never>>,
+    '/posts/Redis缓存架构设计与实战解析': RouteRecordInfo<'/posts/Redis缓存架构设计与实战解析', '/posts/Redis缓存架构设计与实战解析', Record<never, never>, Record<never, never>>,
     '/posts/teach': RouteRecordInfo<'/posts/teach', '/posts/teach', Record<never, never>, Record<never, never>>,
     '/tags/': RouteRecordInfo<'/tags/', '/tags', Record<never, never>, Record<never, never>>,
   }
