@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://JianStack.github.io/sitemap.xml

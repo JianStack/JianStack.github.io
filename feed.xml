@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>-JiAn's Blog | 吉安小站-</title>
+        <link>https://JianStack.github.io/</link>
+        <description>JiAn-欢迎来到我的虚拟小世界</description>
+        <lastBuildDate>Sat, 16 Aug 2025 03:09:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>-JiAn's Blog | 吉安小站-</title>
+            <url>https://JianStack.github.io/avatar.jpg</url>
+            <link>https://JianStack.github.io/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2025 © 吉安</copyright>
+        <atom:link href="https://JianStack.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[滑动窗口思想]]></title>
+            <link>https://JianStack.github.io/posts/滑动窗口思想</link>
+            <guid>https://JianStack.github.io/posts/滑动窗口思想</guid>
+            <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>滑动窗口算法详解：解决无重复字符的最长子串问题</h2>
+<h3>问题描述</h3>
+<p>给定一个字符串 <code>s</code>，找出其中不含有重复字符的 <strong>最长子串</strong> 的长度。例如：</p>
+<ul>
+<li>输入 `s = &quot;abcabcb</li>
+</ul>
+<br/><p>访问 <a href="https://JianStack.github.io/posts/滑动窗口思想" target="_blank">https://JianStack.github.io/posts/滑动窗口思想</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (吉安)</author>
+        </item>
+        <item>
+            <title><![CDATA[Redis缓存架构设计与实战解析(嗨评星球)]]></title>
+            <link>https://JianStack.github.io/posts/Redis缓存架构设计与实战解析</link>
+            <guid>https://JianStack.github.io/posts/Redis缓存架构设计与实战解析</guid>
+            <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>高并发场景下的Redis缓存架构设计与实战解析（嗨评星球）</h1>
+<h2>一、缓存穿透、击穿与雪崩：问题与解决方案</h2>
+<h3>1. 缓存穿透（Cache Penetration）</h3>
+<p><strong>问题</strong>：大量</p>
+<br/><p>访问 <a href="https://JianStack.github.io/posts/Redis缓存架构设计与实战解析" target="_blank">https://JianStack.github.io/posts/Redis缓存架构设计与实战解析</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (吉安)</author>
+        </item>
+        <item>
+            <title><![CDATA[可乐多美食速递项目微信小程序支付问题解决方案]]></title>
+            <link>https://JianStack.github.io/posts/微信小程序支付限制的数据库模拟解决方案</link>
+            <guid>https://JianStack.github.io/posts/微信小程序支付限制的数据库模拟解决方案</guid>
+            <pubDate>Sun, 29 Jun 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h3>可乐多美食速递项目微信小程序支付问题解决方案：基于数据库模拟支付流程</h3>
+<h4>一、问题背景与场景说明</h4>
+<p>在可乐多美食速递项目的开发过程中，遇到了一个典型的开发困境：**使用个人主体注册的</p>
+<br/><p>访问 <a href="https://JianStack.github.io/posts/微信小程序支付限制的数据库模拟解决方案" target="_blank">https://JianStack.github.io/posts/微信小程序支付限制的数据库模拟解决方案</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (吉安)</author>
+        </item>
+        <item>
+            <title><![CDATA[深入理解AOP：面向切面编程的核心与实践]]></title>
+            <link>https://JianStack.github.io/posts/AOP</link>
+            <guid>https://JianStack.github.io/posts/AOP</guid>
+            <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>什么是AOP？</h2>
+<p>AOP（Aspect Oriented Programming）即<strong>面向切面编程</strong>，是一种编程范式，允许开发者将<strong>横切关注点</strong>（如日志、事务、性能监控）从核心业务</p>
+<br/><p>访问 <a href="https://JianStack.github.io/posts/AOP" target="_blank">https://JianStack.github.io/posts/AOP</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (吉安)</author>
+        </item>
+        <item>
+            <title><![CDATA[22岁生日]]></title>
+            <link>https://JianStack.github.io/posts/birthday</link>
+            <guid>https://JianStack.github.io/posts/birthday</guid>
+            <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>22 岁生日，在代码与孤独中生长​</h2>
+<p>蛋糕上的 22 根蜡烛明明灭灭，映得电脑屏幕上的代码都泛起细碎的光晕。这个本该热闹的生日，陪伴我的只有键盘缝隙里的饼干碎屑，和运行到一半突然报错的毕业设计代码</p>
+<br/><p>访问 <a href="https://JianStack.github.io/posts/birthday" target="_blank">https://JianStack.github.io/posts/birthday</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (吉安)</author>
+        </item>
+        <item>
+            <title><![CDATA[《双影奇镜》通关!]]></title>
+            <link>https://JianStack.github.io/posts/games</link>
+            <guid>https://JianStack.github.io/posts/games</guid>
+            <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p><strong>一句话总结</strong>：双人合作 + 多玩法融合的脑洞冒险，适合和朋友边骂边笑通关！</p>
+<h2>一、印象最深的关卡</h2>
+<ol>
+<li><strong>中世纪巨魔追逐战</strong>
+<ul>
+<li>操作：疯狂跳跃躲障碍，扔水果引开巨魔</li>
+<li></li>
+</ul>
+</li>
+</ol>
+<br/><p>访问 <a href="https://JianStack.github.io/posts/games" target="_blank">https://JianStack.github.io/posts/games</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (吉安)</author>
+        </item>
+        <item>
+            <title><![CDATA[技术探索]]></title>
+            <link>https://JianStack.github.io/posts/teach</link>
+            <guid>https://JianStack.github.io/posts/teach</guid>
+            <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>提升博客温度的第一步，从「看见」访客开始</h2>
+<p>“当虚拟空间的连接有了地理坐标，数字背后的个体便有了更真实的轮廓。”—— 这是我开发动态公告栏的初衷。通过技术手段将抽象的 IP 地址转化为具象的城</p>
+<br/><p>访问 <a href="https://JianStack.github.io/posts/teach" target="_blank">https://JianStack.github.io/posts/teach</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (吉安)</author>
+        </item>
+        <item>
+            <title><![CDATA[冰河时代]]></title>
+            <link>https://JianStack.github.io/posts/diary</link>
+            <guid>https://JianStack.github.io/posts/diary</guid>
+            <pubDate>Sun, 20 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 添加音频播放器 -->
+<p><audio controls src="https://JianStack.github.io/ice_age.mp3"></audio></p>
+<blockquote>
+<p>因原曲为VIP限制完整播放，已上传本地版本</p>
+</blockquote>
+<hr>
+<p>“究竟什么样的人，</p>
+<br/><p>访问 <a href="https://JianStack.github.io/posts/diary" target="_blank">https://JianStack.github.io/posts/diary</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (吉安)</author>
+        </item>
+        <item>
+            <title><![CDATA[Hello, Valaxy!]]></title>
+            <link>https://JianStack.github.io/posts/hello-valaxy</link>
+            <guid>https://JianStack.github.io/posts/hello-valaxy</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+<br/><p>访问 <a href="https://JianStack.github.io/posts/hello-valaxy" target="_blank">https://JianStack.github.io/posts/hello-valaxy</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (吉安)</author>
+        </item>
+    </channel>
+</rss>
