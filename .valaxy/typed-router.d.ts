@@ -29,6 +29,7 @@ declare module 'vue-router/auto-routes' {
     '/links/': RouteRecordInfo<'/links/', '/links', Record<never, never>, Record<never, never>>,
     '/page/[page]': RouteRecordInfo<'/page/[page]', '/page/:page', { page: ParamValue<true> }, { page: ParamValue<false> }>,
     '/posts/': RouteRecordInfo<'/posts/', '/posts', Record<never, never>, Record<never, never>>,
+    '/posts/滑动窗口思想': RouteRecordInfo<'/posts/滑动窗口思想', '/posts/滑动窗口思想', Record<never, never>, Record<never, never>>,
     '/posts/微信小程序支付限制的数据库模拟解决方案': RouteRecordInfo<'/posts/微信小程序支付限制的数据库模拟解决方案', '/posts/微信小程序支付限制的数据库模拟解决方案', Record<never, never>, Record<never, never>>,
     '/posts/AOP': RouteRecordInfo<'/posts/AOP', '/posts/AOP', Record<never, never>, Record<never, never>>,
     '/posts/birthday': RouteRecordInfo<'/posts/birthday', '/posts/birthday', Record<never, never>, Record<never, never>>,
